@@ -1,5 +1,5 @@
 
-### Olá!, sou a Ana. 👋
+### Olá! sou a Ana. 👋
 Estudante do curso de ADS, adquirindo muito conhecimento sobre JAVA! (estou aprimorando minhas habilidades em estruturas de dados, orientação a objetos, e algoritmos regularmente)
 - 🌱 Atualmente estou trabalhando como estagiária em QA, realizando testes exigidos, monitorando processos de testes especialmente em Apis, detalhandos os resultados em cada ciclo de teste avaliando a qualidade geral.
 
