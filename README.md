@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @  ana Paula Monteiro,  estudante de ADS,  amante de java <3 
+
+### Olá!, sou a Ana. 👋
+Estudante do curso de ADS, adquirindo muito conhecimento sobre JAVA! (estou aprimorando minhas habilidades em estruturas de dados, orientação a objetos, e algoritmos regularmente)
+- 🌱 Atualmente estou trabalhando como estagiária em QA, realizando testes exigidos, monitorando processos de testes especialmente em Apis, detalhandos os resultados em cada ciclo de teste avaliando a qualidade geral.
 
 
-<!---
-monteiropana/monteiropana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ana-monteiro-paula//) 
