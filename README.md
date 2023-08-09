@@ -1,7 +1,5 @@
 ### Olá! sou a Ana.
-Estudante do curso de ADS, adquirindo muito conhecimento sobre JAVA! (estou aprimorando minhas habilidades em Algoritmos, orientação a objetos e estruturas de dados regularmente).
-
-- 🌱 
+Desenvolvdeora de Software Junior 
 
 
 
