@@ -1,6 +1,5 @@
 ### Olá! sou a Ana.
-Desenvolvdeora de Software Junior 
-
+Software Developer
 
 
 
